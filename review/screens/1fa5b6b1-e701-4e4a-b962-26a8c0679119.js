@@ -2,7 +2,7 @@ var content='<div class="ui-page" deviceName="web" deviceType="desktop" deviceWi
     <div id="t-f39803f7-df02-4169-93eb-7547fb8c961a" class="template growth-both devWeb canvas firer commentable non-processed" alignment="left" name="Template 1" width="1366" height="768">\
     <div id="backgroundBox"><div class="colorLayer"></div><div class="imageLayer"></div></div>\
     <div id="alignmentBox">\
-      <link type="text/css" rel="stylesheet" href="./resources/templates/f39803f7-df02-4169-93eb-7547fb8c961a-1687203402297.css" />\
+      <link type="text/css" rel="stylesheet" href="./resources/templates/f39803f7-df02-4169-93eb-7547fb8c961a-1687461863547.css" />\
       <div class="freeLayout">\
       </div>\
 \
@@ -12,7 +12,7 @@ var content='<div class="ui-page" deviceName="web" deviceType="desktop" deviceWi
     <div id="s-1fa5b6b1-e701-4e4a-b962-26a8c0679119" class="screen growth-vertical devWeb canvas PORTRAIT firer ie-background commentable non-processed" alignment="left" name="LOUVERS by APP" width="1366" height="768">\
     <div id="backgroundBox"><div class="colorLayer"></div><div class="imageLayer"></div></div>\
     <div id="alignmentBox">\
-      <link type="text/css" rel="stylesheet" href="./resources/screens/1fa5b6b1-e701-4e4a-b962-26a8c0679119-1687203402297.css" />\
+      <link type="text/css" rel="stylesheet" href="./resources/screens/1fa5b6b1-e701-4e4a-b962-26a8c0679119-1687461863547.css" />\
       <div class="freeLayout">\
       <div id="s-Button_2" class="button multiline manualfit firer mouseenter mouseleave click commentable non-processed" customid="ACOUSTICS"   datasizewidth="177.3px" datasizeheight="158.0px" dataX="405.1" dataY="310.3" >\
         <div class="backgroundLayer">\
@@ -131,30 +131,6 @@ var content='<div class="ui-page" deviceName="web" deviceType="desktop" deviceWi
           </div>\
         </div>\
       </div>\
-      <div id="s-Button_11" class="button multiline manualfit firer mouseenter mouseleave click commentable non-processed" customid="Secondary button"   datasizewidth="78.0px" datasizeheight="61.0px" dataX="1189.0" dataY="678.0" >\
-        <div class="backgroundLayer">\
-          <div class="colorLayer"></div>\
-          <div class="imageLayer"></div>\
-        </div>\
-        <div class="borderLayer">\
-          <div class="paddingLayer">\
-            <div class="content">\
-              <div class="valign">\
-                <span id="rtr-s-Button_11_0"></span>\
-              </div>\
-            </div>\
-          </div>\
-        </div>\
-      </div>\
-\
-      <div id="s-Image_1" class="image firer click ie-background commentable non-processed" customid="Image 6"   datasizewidth="35.0px" datasizeheight="35.0px" dataX="126.0" dataY="693.0"   alt="image">\
-        <div class="borderLayer">\
-        	<div class="imageViewport">\
-        		<img src="./images/6647f9d3-dbc6-47ab-b258-1081781e2252.png" />\
-        	</div>\
-        </div>\
-      </div>\
-\
       <div id="s-Paragraph_1" class="richtext autofit firer ie-background commentable non-processed" customid="FIXED AS WELLAS MOVABLE"   datasizewidth="133.4px" datasizeheight="42.0px" dataX="1110.9" dataY="119.0" >\
         <div class="backgroundLayer">\
           <div class="colorLayer"></div>\
@@ -165,6 +141,45 @@ var content='<div class="ui-page" deviceName="web" deviceType="desktop" deviceWi
             <div class="content">\
               <div class="valign">\
                 <span id="rtr-s-Paragraph_1_0">FIXED AS WELL<br />AS MOVABLE</span>\
+              </div>\
+            </div>\
+          </div>\
+        </div>\
+      </div>\
+\
+      <div id="s-Image_5" class="image firer click ie-background commentable non-processed" customid="Image 6"   datasizewidth="35.0px" datasizeheight="35.0px" dataX="598.2" dataY="699.9"   alt="image">\
+        <div class="borderLayer">\
+        	<div class="imageViewport">\
+        		<img src="./images/6647f9d3-dbc6-47ab-b258-1081781e2252.png" />\
+        	</div>\
+        </div>\
+      </div>\
+\
+      <div id="s-Button_1" class="button multiline manualfit firer click commentable non-processed" customid="Secondary button"   datasizewidth="78.0px" datasizeheight="61.0px" dataX="712.0" dataY="686.9" >\
+        <div class="backgroundLayer">\
+          <div class="colorLayer"></div>\
+          <div class="imageLayer"></div>\
+        </div>\
+        <div class="borderLayer">\
+          <div class="paddingLayer">\
+            <div class="content">\
+              <div class="valign">\
+                <span id="rtr-s-Button_1_0"></span>\
+              </div>\
+            </div>\
+          </div>\
+        </div>\
+      </div>\
+      <div id="s-Paragraph_5" class="richtext manualfit firer click ie-background commentable non-processed" customid="PRINCIPALS &gt; LOUVERS &gt; BY"   datasizewidth="360.8px" datasizeheight="36.0px" dataX="118.5" dataY="665.0" >\
+        <div class="backgroundLayer">\
+          <div class="colorLayer"></div>\
+          <div class="imageLayer"></div>\
+        </div>\
+        <div class="borderLayer">\
+          <div class="paddingLayer">\
+            <div class="content">\
+              <div class="valign">\
+                <span id="rtr-s-Paragraph_5_0"> PRINCIPALS &gt; LOUVERS &gt; BY APPLICATION </span>\
               </div>\
             </div>\
           </div>\

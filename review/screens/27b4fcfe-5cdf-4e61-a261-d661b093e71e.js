@@ -2,7 +2,7 @@ var content='<div class="ui-page" deviceName="web" deviceType="desktop" deviceWi
     <div id="t-f39803f7-df02-4169-93eb-7547fb8c961a" class="template growth-both devWeb canvas firer commentable non-processed" alignment="left" name="Template 1" width="1366" height="768">\
     <div id="backgroundBox"><div class="colorLayer"></div><div class="imageLayer"></div></div>\
     <div id="alignmentBox">\
-      <link type="text/css" rel="stylesheet" href="./resources/templates/f39803f7-df02-4169-93eb-7547fb8c961a-1687203402297.css" />\
+      <link type="text/css" rel="stylesheet" href="./resources/templates/f39803f7-df02-4169-93eb-7547fb8c961a-1687461863547.css" />\
       <div class="freeLayout">\
       </div>\
 \
@@ -12,7 +12,7 @@ var content='<div class="ui-page" deviceName="web" deviceType="desktop" deviceWi
     <div id="s-27b4fcfe-5cdf-4e61-a261-d661b093e71e" class="screen growth-vertical devWeb canvas PORTRAIT firer ie-background commentable non-processed" alignment="left" name="PRINCIPALS" width="1366" height="768">\
     <div id="backgroundBox"><div class="colorLayer"></div><div class="imageLayer"></div></div>\
     <div id="alignmentBox">\
-      <link type="text/css" rel="stylesheet" href="./resources/screens/27b4fcfe-5cdf-4e61-a261-d661b093e71e-1687203402297.css" />\
+      <link type="text/css" rel="stylesheet" href="./resources/screens/27b4fcfe-5cdf-4e61-a261-d661b093e71e-1687461863547.css" />\
       <div class="freeLayout">\
       <div id="s-Button_10" class="button multiline manualfit firer click commentable hidden non-processed" customid="BARRISOL BY DECOR"   datasizewidth="175.0px" datasizeheight="45.0px" dataX="233.0" dataY="227.5" >\
         <div class="backgroundLayer">\
@@ -254,7 +254,7 @@ var content='<div class="ui-page" deviceName="web" deviceType="desktop" deviceWi
           </div>\
         </div>\
       </div>\
-      <div id="s-Button_18" class="button multiline manualfit firer mouseenter mouseleave click commentable non-processed" customid="Secondary button"   datasizewidth="78.0px" datasizeheight="61.0px" dataX="1189.0" dataY="678.0" >\
+      <div id="s-Button_18" class="button multiline manualfit firer click commentable non-processed" customid="Secondary button"   datasizewidth="78.0px" datasizeheight="61.0px" dataX="711.0" dataY="679.0" >\
         <div class="backgroundLayer">\
           <div class="colorLayer"></div>\
           <div class="imageLayer"></div>\
@@ -270,7 +270,7 @@ var content='<div class="ui-page" deviceName="web" deviceType="desktop" deviceWi
         </div>\
       </div>\
 \
-      <div id="s-Image_1" class="image firer click ie-background commentable non-processed" customid="Image 6"   datasizewidth="35.0px" datasizeheight="35.0px" dataX="126.0" dataY="693.0"   alt="image">\
+      <div id="s-Image_1" class="image firer click ie-background commentable non-processed" customid="Image 6"   datasizewidth="35.0px" datasizeheight="35.0px" dataX="597.2" dataY="692.0"   alt="image">\
         <div class="borderLayer">\
         	<div class="imageViewport">\
         		<img src="./images/6647f9d3-dbc6-47ab-b258-1081781e2252.png" />\
@@ -278,6 +278,21 @@ var content='<div class="ui-page" deviceName="web" deviceType="desktop" deviceWi
         </div>\
       </div>\
 \
+      <div id="s-Paragraph_5" class="richtext manualfit firer ie-background commentable non-processed" customid="PRINCIPALS"   datasizewidth="229.0px" datasizeheight="27.0px" dataX="118.5" dataY="665.0" >\
+        <div class="backgroundLayer">\
+          <div class="colorLayer"></div>\
+          <div class="imageLayer"></div>\
+        </div>\
+        <div class="borderLayer">\
+          <div class="paddingLayer">\
+            <div class="content">\
+              <div class="valign">\
+                <span id="rtr-s-Paragraph_5_0"> PRINCIPALS</span>\
+              </div>\
+            </div>\
+          </div>\
+        </div>\
+      </div>\
       </div>\
 \
       </div>\

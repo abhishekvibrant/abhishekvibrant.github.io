@@ -2,7 +2,7 @@ var content='<div class="ui-page" deviceName="web" deviceType="desktop" deviceWi
     <div id="t-f39803f7-df02-4169-93eb-7547fb8c961a" class="template growth-both devWeb canvas firer commentable non-processed" alignment="left" name="Template 1" width="1366" height="768">\
     <div id="backgroundBox"><div class="colorLayer"></div><div class="imageLayer"></div></div>\
     <div id="alignmentBox">\
-      <link type="text/css" rel="stylesheet" href="./resources/templates/f39803f7-df02-4169-93eb-7547fb8c961a-1687203402297.css" />\
+      <link type="text/css" rel="stylesheet" href="./resources/templates/f39803f7-df02-4169-93eb-7547fb8c961a-1687461863547.css" />\
       <div class="freeLayout">\
       </div>\
 \
@@ -12,7 +12,7 @@ var content='<div class="ui-page" deviceName="web" deviceType="desktop" deviceWi
     <div id="s-d12245cc-1680-458d-89dd-4f0d7fb22724" class="screen growth-vertical devWeb canvas PORTRAIT firer ie-background commentable non-processed" alignment="left" name="Explore" width="1366" height="768">\
     <div id="backgroundBox"><div class="colorLayer"></div><div class="imageLayer"></div></div>\
     <div id="alignmentBox">\
-      <link type="text/css" rel="stylesheet" href="./resources/screens/d12245cc-1680-458d-89dd-4f0d7fb22724-1687203402297.css" />\
+      <link type="text/css" rel="stylesheet" href="./resources/screens/d12245cc-1680-458d-89dd-4f0d7fb22724-1687461863547.css" />\
       <div class="freeLayout">\
       <div id="s-Image_2" class="image firer ie-background commentable non-processed" customid="exp"   datasizewidth="138.6px" datasizeheight="44.8px" dataX="614.0" dataY="523.2"   alt="image">\
         <div class="borderLayer">\
